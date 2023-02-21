@@ -22,7 +22,7 @@ footer: '**SafetyNet Attestation API bypass** - 14/02/2023 - Alexandre ZANNi (@n
 
 ## C'est quoi SafetyNet ?
 
-> **SafetyNet Attestation API** API Android … (blahblah) … permet d'évaluer l'intégrité de l'appareil.
+> **SafetyNet Attestation API** est une API Android … (blahblah) … permet d'évaluer l'intégrité de l'appareil.
 
 ---
 
