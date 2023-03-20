@@ -5,8 +5,8 @@
 
 **Télécharger / voir** :
 
-[![](https://img.shields.io/badge/pdf-offline-red)](https://github.com/Acceis/FIXME_PROJECT_SLUG/releases/download/v1.0.0/slides.pdf)
-[![](https://img.shields.io/badge/html-online-green)](https://acceis.github.io/FIXME_PROJECT_SLUG/)
+[![](https://img.shields.io/badge/pdf-offline-red)](https://github.com/Acceis/rump-SafetyNet/releases/download/v1.0.0/slides.pdf)
+[![](https://img.shields.io/badge/html-online-green)](https://acceis.github.io/rump-SafetyNet/)
 [![](https://img.shields.io/badge/markdown-source-blue)](docs/slides.md)
 
 **Présentation** :
